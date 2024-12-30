@@ -119,8 +119,8 @@ body {
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/css-course.git
-   cd css-course
+   git clone https://github.com/kc-clintone/css_challenges.git
+   cd css_challenges
    ```
 
 2. Open the `index.html` file in your browser to see the demo.
